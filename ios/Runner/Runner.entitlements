@@ -10,9 +10,8 @@
 	</array>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:Talab.thewrteam.in</string>
-		<string>applinks:Talab.wrteam.me</string>
-		<string>applinks:e-classify-app-router.vercel.app</string>
+		<string>talab.qa</string>
+		<string>applinks:talab.qa</string>
 	</array>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
@@ -22,5 +21,7 @@
 	<array>
 		<string>CloudKit</string>
 	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>$(TeamIdentifierPrefix)$(CFBundleIdentifier)</string>
 </dict>
 </plist>
