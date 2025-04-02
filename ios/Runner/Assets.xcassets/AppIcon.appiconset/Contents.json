@@ -108,6 +108,12 @@
       "filename" : "Icon-App-83.5x83.5@2x.png",
       "scale" : "2x"
     },
+     {
+      "size" : "152x152",
+      "idiom" : "ipad",
+      "filename" : "Icon-App-152x152@1x.png",
+      "scale" : "1x"
+    },
     {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
