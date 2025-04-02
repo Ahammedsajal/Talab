@@ -64,9 +64,9 @@ class DefaultFirebaseOptions {
     projectId: 'talab-e6638',
     storageBucket: 'talab-e6638.firebasestorage.app',
     androidClientId:
-        '6343732161-dhn3si4lpio5bhr32iu9u6j6d8ja0npr.apps.googleusercontent.com',
+        '108180484089-3d98dmohbghiqm4mj4i8dpgcnpbvebqu.apps.googleusercontent.com',
     iosClientId:
-        '6343732161-tutdvlsj06eis0n3eli5c4985fi0lkht.apps.googleusercontent.com',
+        '108180484089-i86oapgt2k55rvbloliguutja4ht9khm.apps.googleusercontent.com',
     iosBundleId: 'com.talab.white',
   );
 }
